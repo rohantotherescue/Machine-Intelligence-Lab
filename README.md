@@ -1,2 +1,1 @@
-# Machine-Intelligence-Lab
-Machine Intelligence lab assignments 
+In this repository I will be uploading the main takeaways from the A-Z Machine Learning course on udemy. If you find this helpful, you're welcome in advance. But if you find this incomplete, it means I am still studying the course or I am dead. Thank you :)
